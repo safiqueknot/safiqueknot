@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏿! My name is S. Hasan Sohan and I'm an IT enthusiast</h2>
+<h2 align="left">Hi 👋🏿! My name is S. Hasan Sohan and I'm an IT enthusiast. Really getting into Python and checking out all the cool things it can do.</h2>
 
 ###
 
