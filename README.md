@@ -2,19 +2,19 @@
 
 ###
 
-<img src="https://i.ibb.co/vw7kCTK/anime.gif" alt="anime" border="0">
+<img src="https://i.ibb.co/vw7kCTK/anime.gif" alt="anime" border="0" align="right">
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://i.ibb.co/GdPHcyv/python-256x254.png" height="30" alt="python icon" >
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img src="https://i.ibb.co/hC8V97C/apple-209x256.png" height="30" alt="apple logo">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://i.ibb.co/mTkbvtZ/numpy-240x256.png" height="30" alt="numpy logo">
   <img width="12" />
-  <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" height="30" alt="pycharm logo"  />
-</div>
+  <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" height="30" alt="anaconda logo"  />
+  </div>
 
 ###
 
