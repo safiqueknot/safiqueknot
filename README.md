@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏿! My name is KM Safique Hassan Sohan and I'm an IT enthusiast. Really getting into Python and checking out all the cool things it can do.</h2>
+<h2 align="left">Hi 👋🏿! My name is KM Safique Hasan Sohan and I'm an IT enthusiast. Really getting into Python and checking out all the cool things it can do.</h2>
 
 ###
 
