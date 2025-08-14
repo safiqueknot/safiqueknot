@@ -15,9 +15,8 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" height="30" alt="cisco logo">
   </div>
-
-###
-
+  
+![Learning Cisco Networking](https://img.shields.io/badge/Learning-Cisco%20Networking-blue?logo=cisco&logoColor=white&style=for-the-badge)
 <div align="left">
   <a href="safique.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
