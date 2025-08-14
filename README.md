@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋🏿! My name is KM Safique Hasan Sohan and I'm an IT enthusiast. Really getting into Python and checking out all the cool things it can do.</h2>
+## Hi 👋🏿! I'm KM Safique Hasan Sohan
+
+💻 **IT Enthusiast | Networking Learner**  
+🌐 Currently learning **Network Engineering** with a focus on **Cisco technologies**.  
+📡 Exploring routing, switching, and real-world networking solutions.  
+
+---
+
+![IT Enthusiast](https://img.shields.io/badge/IT-Enthusiast-success?style=for-the-badge)
+![Learning Cisco Networking](https://img.shields.io/badge/Learning-Cisco%20Networking-blue?logo=cisco&logoColor=white&style=for-the-badge)
+
+---
+
 
 ###
 
@@ -15,8 +27,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" height="30" alt="cisco logo">
   </div>
-  
-![Learning Cisco Networking](https://img.shields.io/badge/Learning-Cisco%20Networking-blue?logo=cisco&logoColor=white&style=for-the-badge)
+
 <div align="left">
   <a href="safique.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
