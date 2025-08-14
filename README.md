@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://i.ibb.co/hC8V97C/apple-209x256.png" height="30" alt="apple logo">
   <img width="12" />
-  <img src="https://i.ibb.co/mTkbvtZ/numpy-240x256.png" height="30" alt="numpy logo">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="30" alt="go logo">
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" height="30" alt="cisco logo">
   </div>
