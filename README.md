@@ -13,10 +13,7 @@
   <img width="12" />
   <img src="https://i.ibb.co/mTkbvtZ/numpy-240x256.png" height="30" alt="numpy logo">
   <img width="12" />
-  <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" height="30" alt="anaconda logo"/>
-  <img width="12" />
-  <img src="https://ibb.co.com/1JdMP3hP" height="30" alt="cisco logo"/>
-  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" height="30" alt="cisco logo">
   </div>
 
 ###
