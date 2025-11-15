@@ -1,8 +1,8 @@
 ## Hi 👋🏿! I'm KM Safique Hasan Sohan
 
 💻 IT Enthusiast | Sales Manager (Computer & IT Products) <br>
-🖥️ Working in computer sales, client handling, and product recommendations.
-⚙️ Skilled in PC setup, assembly, and troubleshooting with reliable after-sales support.
+🖥️ Working in computer sales, client handling, and product recommendations. <br>
+⚙️ Skilled in PC setup, assembly, and troubleshooting with reliable after-sales support.<br>
 🎓 CSE student, growing in IT hardware and practical tech solutions.
 ---
 ---
