@@ -5,8 +5,6 @@
 ⚙️ Skilled in PC setup, assembly & troubleshooting.<br>
 🎓 CSE Student, focusing on practical IT hardware skills.
 </small>
----
----
 
 
 ###
