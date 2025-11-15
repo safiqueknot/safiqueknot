@@ -1,9 +1,9 @@
 ## Hi 👋🏿! I'm KM Safique Hasan Sohan
 
-💻 **IT Enthusiast | Networking Learner**  
-🌐 Currently learning **Network Engineering** with a focus on **Cisco technologies**.  
-📡 Exploring routing, switching, and real-world networking solutions.  
-
+💻 IT Enthusiast | Sales Manager (Computer & IT Products)
+🖥️ Working in computer sales, client handling, and product recommendations.
+⚙️ Skilled in PC setup, assembly, and troubleshooting with reliable after-sales support.
+🎓 CSE student, growing in IT hardware and practical tech solutions.
 ---
 
 ![IT Enthusiast](https://img.shields.io/badge/IT-Enthusiast-success?style=for-the-badge)
